@@ -6,7 +6,7 @@
 - **cans of beans**: also very versatile, can be used in salads, hot dishes, make soup out of them, etc. I prefer black and red.
 
 
-## Shakshouka:
+### Shakshouka:
 
 **Ingredients**:
 -
