@@ -7,8 +7,8 @@
 
 
 ### Shakshouka:
-a
-**Ingredients**:
+
+Ingredients:
 -
 **Steps**:
 1. 
