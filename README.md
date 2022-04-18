@@ -4,7 +4,7 @@ I am a PhD student at the department of Civil and Environmental Engineering, UCL
 
 You can contact me at gsanmartin@ucla.edu for university stuff or g.sanmartin.silva@gmail.com for personal stuff 🙂
 
-Also, here is the webpage of the lab I work here at UCLA: <a href="https://tensorworks.seas.ucla.edu" target="_blank">TensorWorks</a>
+Also, here is the webpage of the lab I work here at UCLA: <a href="https://tensorworks.seas.ucla.edu" target="_blank">TensorWorks</a>.
 
 
 ## Publications & Projects
