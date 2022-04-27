@@ -25,8 +25,9 @@ The following is a list of some papers that I have authored or co-authored so fa
 - 
 
 #### Preprints
+- **San Martin, G.**, & Droguett, E. L. (2022). Quantum Fault Trees. arXiv preprint arXiv:2204.10877. https://arxiv.org/abs/2204.10877.
 - **San Martin, G.**, & Droguett, E. L. (2021). Quantum Machine Learning for Health State Diagnosis and Prognostics. arXiv preprint arXiv:2108.12265. https://arxiv.org/abs/2108.12265.
-- QUANTUM FAULT TREE
+- 
 
 #### Random Projects 😊
 - <a href="https://github.com/gsanmartinsilva/gsanmartinsilva/blob/main/cooking.md" target="_blank">My Recipe Book</a>.
